@@ -1,0 +1,16 @@
+Operators in java
+
+Arithmetic-(+,-,*,/,%)
+
+Logical-(<,>,<=,>=,==,=!)
+
+Relational-(||,&&,!)
+
+Increment or decremental(a++,++a,--a,a--)
+
+Post increament(a++)
+First use the same value for output and then increase in number.
+
+Pre increament(++a)
+First increase the value and then show it as output
+Same for the decrement operation
